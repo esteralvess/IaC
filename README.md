@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>README - Configuração do Terraform para instância do AWS EC2</title>
-</head>
+
 <body>
   <h1>README - Configuração do Terraform para instância do AWS EC2</h1>
 
